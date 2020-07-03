@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-
 import CounterControl from '../../components/CounterControl/CounterControl';
 import CounterOutput from '../../components/CounterOutput/CounterOutput';
 import { connect } from 'react-redux';
